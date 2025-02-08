@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_email,contact_phone,address,product_categories_supplied
+SUP001,"Berry, Perry and Roy",ggallagher@young-zhang.com,+1-509-701-6278x6181,"7786 Beth Crescent, Williamsberg, AL 54673",Household
+SUP002,"Alexander, Carroll and Simpson",jeremyjimenez@montgomery-wong.org,+1-751-759-9003x1731,"811 Jeffrey Vista Apt. 108, Lake Bonnietown, MN 46442","Bakery, Grocery"
+SUP003,Franklin Group,stacey76@howard.com,603.477.2466x745,"93261 Esparza Coves, Wangberg, MS 60052","Bakery, Grocery, Toiletries"
+SUP004,Buckley LLC,jessica23@johnson.com,001-832-950-8369x607,"247 Makayla Ridge, South Robertmouth, NY 28419","Dairy, Meat, Snacks, Household"
+SUP005,"Murphy, Hayes and Rodriguez",julie44@morrison.net,(579)505-9428x228,"0136 Jesse Squares Suite 775, Port Alexis, UT 90817","Meat, Household, Bakery, Toiletries"
+SUP006,"Nguyen, Sanchez and Lewis",jessica00@ortiz.com,795.879.6107,"PSC 0289, Box 8287, APO AE 59922","Fruits, Bakery, Household, Vegetables"
+SUP007,"Krause, Porter and Williams",jennifer19@patrick.info,001-561-628-1676x0485,"217 Martin Creek Suite 279, North Laura, TN 47071","Fruits, Vegetables"
+SUP008,Cook PLC,melissasalinas@warner-mcbride.net,402.225.5417,"578 Lopez Village, Shieldstown, FM 84016","Snacks, Vegetables, Grocery, Beverages"
+SUP009,Stewart-Little,cjohnson@schultz-wood.net,+1-532-634-0615,"89457 Hinton Plains, North Bryan, ME 78181",Fruits
+SUP010,Fuller-Barron,qbowman@castillo.com,482.715.5851x6262,"0214 Wong Ranch Suite 389, West Richardborough, NJ 68371","Fruits, Household, Vegetables"

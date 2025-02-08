@@ -1,0 +1,8 @@
+dept_id,dept_name,department_head,budget,description,location_within_store
+D001,Sales,Corey Diaz,402698,Handles all sales activities and customer transactions.,Front End / Checkout Area
+D002,Marketing,Daniel Small,100407,Responsible for promotions and advertising.,Marketing Office
+D003,Operations,Bobby Powell,136466,Oversees daily store operations.,Operations Hub
+D004,Finance,Benjamin Lucas,174025,Manages financial records and cash flow.,Finance Department
+D005,Human Resources,Gabriel Cruz,109742,Handles employee relations and recruitment.,HR Office
+D006,Inventory,Marie Wallace,282655,Manages stock levels and reordering.,Stock Room
+D007,Customer Service,Justin Ross,87930,Assists customers and handles inquiries.,Service Desk

@@ -1,0 +1,9 @@
+branch_id,branch_name,address,operating_hours,manager_name,manager_email,manager_phone,latitude,longitude,establishment_date,branch_size_sqft
+BR001,Lekki Phase I,"Plot 9, Northern Business District, Admiralty Road, Lekki Phase I",07:00 - 20:00,Brandon Clark,ihoward@example.net,868-376-8243x644,6.54831,3.248978,2013-06-12,3286
+BR002,Chevron Drive,"10, Chevron Drive, Lekki Peninsula II",07:00 - 20:00,Joshua Johnson,leashley@example.org,001-570-905-2012x56473,6.518099,3.206357,1999-06-23,2535
+BR003,Oniru Estate,"T.F. Kuboye Road, Off Akiogun Road, Oniru Estate, Maroko, Lekki Phase I",08:00 - 21:00,Meredith Davis,qstein@example.org,837-583-8369,6.501071,3.205307,2011-01-11,4257
+BR004,Ikeja GRA,"14, Isaac John Street, Ikeja GRA",10:00 - 21:00,Robert Duncan,kara36@example.com,(417)349-2836,6.489842,3.255638,2016-03-16,1106
+BR005,Agungi,"5, SPG Road, Beside FIRS Office, Agungi, Lekki Phase II",08:00 - 23:00,Lawrence Sanchez,millskevin@example.org,817-263-3420x78388,6.46805,3.231096,2015-09-28,6514
+BR006,Adeboyo Doherty Street,"Road 14, Plot 13, Block 54, Adeboyo Doherty Street, Lekki Phase I",07:00 - 20:00,Tammy Taylor,kharris@example.com,881-904-1532,6.475985,3.271796,2012-01-20,6635
+BR007,Gaduwa Lokogoma Junction,"Plot 551 Abdulsalam Abubakar Way, Gaduwa Lokogoma Junction",09:00 - 20:00,Jason Foster,justincharles@example.net,409.348.8288x0821,9.364866,7.407246,1996-05-24,7201
+BR008,Wuse Zone 4,"9, Cape Town Street, Wuse Zone 4",07:00 - 22:00,Chase Davidson,jenniferrodgers@example.org,578.316.5273x79751,9.414702,7.423704,2007-05-19,6925
